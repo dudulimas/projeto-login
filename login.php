@@ -1,4 +1,2 @@
-Ótimo!
-O seu Login foi concluido. 
-Verfifique sua caixa do e-mail para ativar sua conta.
-
+Os Dados foram enviados!
+Login concluído.
