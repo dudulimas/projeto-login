@@ -56,4 +56,14 @@
         font-size: 1em;
         margin: 20px 0px;
     }
+
+    div.campo > input {
+        background-color: #94cfcd;
+        font-size: 1em;
+        width: calc(100% - 45px);
+        height: 40px;
+        border: 0;
+        border-radius: 8px;
+        transform: translate(3px, -12px);
+    }
 }
